@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> </title>
+<body>
+<font face = "Century Gothic" size = "10 px" color = "red"> EJEMPLO PRÁCTICO </font>
+<br>
+<img src ="pinguino.gif" border="2"> 
+<br>
+<img src ="pinguino.gif" height= "100px" width="200px" Tamaño 100px/200px>
+<br>
+<img src ="pinguino.gif" height= "50px" width="50px" vspace="20px">
+<br>
+<img src ="pinguino.gif" lowsrc vspace="100px" "hspace=50px">
+</body>
